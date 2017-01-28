@@ -2,7 +2,7 @@
 
 Download the lab from the link below.
 
-http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/4/lab1.zip
+https://github.com/RPISEC/MBE/tree/master/src/lab01
 
 Normally the RPISec MBE labs are ran through a VM. You are welcome to download
 it from their [GitHub repository](https://github.com/RPISEC/MBE), but the first
